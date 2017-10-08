@@ -1,0 +1,20 @@
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\bin\Debug\BuhgLite.exe.config
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\bin\Debug\BuhgLite.exe
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\bin\Debug\BuhgLite.pdb
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\obj\Debug\BuhgLite.csprojResolveAssemblyReference.cache
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\obj\Debug\BuhgLite.Properties.Resources.resources
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\obj\Debug\BuhgLite.csproj.GenerateResource.Cache
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\obj\Debug\BuhgLite.exe
+D:\work\VS2013 Projects\BuhgLite\BuhgLite\obj\Debug\BuhgLite.pdb
+C:\Users\user\Desktop\BuhgLite\BuhgLite\bin\Debug\BuhgLite.exe.config
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.exe
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.pdb
+C:\Users\user\Desktop\BuhgLite\BuhgLite\bin\Debug\BuhgLite.exe
+C:\Users\user\Desktop\BuhgLite\BuhgLite\bin\Debug\BuhgLite.pdb
+C:\Users\user\Desktop\BuhgLite\BuhgLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\BuhgLite\BuhgLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.MainForm.resources
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.Properties.Resources.resources
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BuhgLite\BuhgLite\obj\Debug\BuhgLite.PersonsForm.resources
